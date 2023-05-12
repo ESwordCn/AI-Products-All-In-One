@@ -1,225 +1,440 @@
-# AI-Products-All-In-One
-這個 Repository 整理了當前將 ChatGPT 產品化的服務，讓大家快速的使用！
+##  README
 
-## 全部分類
-- [ChatGPT 應用](#chatgpt-應用)
-- [文件處理](#文件處理)
-- [工作優化](#工作優化)
-- [Email 助手](#email-助手)
-- [求職面試](#求職面試)
-- [寫作工具](#寫作工具)
-- [文案生成](#文案生成)
-- [PPT 生成](#ppt-生成)
-- [重點整理](#重點整理)
-- [圖像生成](#圖像生成)
-- [影音生成](#影音生成)
-- [品牌生成](#品牌生成)
-- [動畫生成](#動畫生成)
-- [聊天機器人](#聊天機器人)
-- [搜尋引擎](#搜尋引擎)
-- [程式開發](#程式開發)
-- [翻譯工具](#翻譯工具)
-- [學術研究](#學術研究)
-- [有趣應用](#有趣應用)
-- [學習成長](#學習成長)
+###  其他收藏夹
 
+####  大海投计划
 
-### ChatGPT 應用
-| 名稱 | 說明 | 連結 | 費用 | Active | 語言 |
-| ---- | ----------------------------- | --- | --- | --- | --- |
-| ChatGPT 指令大全 | 提供完整的 ChatGPT 指令 | [URL](https://www.explainthis.io/zh-hant/chatgpt) | 免費 | ✅ | 中文/英文 |
-| ChatGPT Prompt Genius | 這是一款免費、開源的瀏覽器擴展程式，可幫助你發現、分享、匯入和使用最佳的 ChatGPT prompts，並可將您的聊天記錄本地保存，以便日後查看。 | [URL](https://chrome.google.com/webstore/detail/chatgpt-prompt-genius/jjdnakkfjnnbbckhifcfchagnpofjffo) | 免費 | ✅ | 英文 |
-| WebChatGPT：有網路存取功能的 ChatGPT | 這個免費的擴充套件將相關的網絡結果添加到您對 ChatGPT 的提示中，以獲得更準確和最新的對話。 | [URL](https://chrome.google.com/webstore/detail/webchatgpt-chatgpt-with-i/lpfemeioodjbpieminkklglpmhlngfcn) | 免費 | ✅ | 中文/英文 |
+#####  😀😀😀有进度😀😀😀
+
+2023-04-04 10:59 [华❤为](https://career.huawei.com/reccampportal/portal5/user-index.html)
+
+2023-04-03 21:38 [中科空天](https://zhaopin.aircas.ac.cn/system/userInfo/myDeliveryDetail?id=1630106494559182849)
+
+2023-04-03 17:14 [米哈游](https://campus.mihoyo.com/?isRecommendation=true&recommendationCode=AFX50&sharePageId=8424#/campus/applyRecord)
+
+2023-04-04 10:34 [ArcSoft虹软](https://career.arcsoft.com.cn/personal/deliveryRecord)
+
+2023-04-04 08:54 [携程](https://campus.ctrip.com/campus-recruitment/trip/37757/#/candidateHome/applications)
+
+2023-04-16 09:55 [网易雷火](https://campus.163.com/app/personal/apply?tab=leihuo)
+
+2023-04-05 22:01 [CVTE视源](https://careers.cvte.com/zone/resume/applications)
+
+2023-04-04 10:15 [腾讯音乐](https://join.tencentmusic.com/deliver)
 
 
-### 文件處理
-| 名稱 | 說明 | 連結 | 費用 | Active | 語言 |
-| --- | --- | --- | --- | --- | --- |
-| ChatExcel | 能夠匯入 Excel，並且利用 Prompt 直接編輯 Excel | [URL](https://chatexcel.com/) | 免費 | ✅ | 中文/英文 |
-| Excelformulabot | 利用 ChatGPT 生成 Excel 公式 | [URL](https://excelformulabot.com/) | 付費 | ✅ | 英文 |
-| ChatPDF | 快速總結 PDF 內容，並且可以再用指令與之對話 | [URL](https://www.chatpdf.com/?ref=futuretools.io) | 免費 | ✅ | 中文/英文 |
+
+#####  🙃🙃🙃简历筛🙃🙃🙃
+
+2023-04-03 16:33 [360](https://360campus.zhiye.com/personal/deliveryRecord)
+
+2023-04-03 13:49 [蚂蚁](https://talent.antgroup.com/personal/campus-application)
+
+2023-04-09 20:08 [中兴](https://app.mokahr.com/campus-recruitment/zte/46903#/candidateHome/applications)
+
+2023-04-03 16:26 [京东](https://campus.jd.com/#/myDeliver?type=internship)
+
+2023-04-04 09:03 [小红书](https://job.xiaohongshu.com/record/intern)
+
+2023-04-04 10:44 [顺丰](https://campus.sf-express.com/#/personalCenter)
+
+2023-04-04 11:47 [旷视MEGVII](https://app.mokahr.com/campus-recruitment/megviihr/38642#/candidateHome/applications)
+
+2023-04-04 08:49 [联想](https://talent.lenovo.com.cn/account/apply)
+
+2023-04-04 14:18 [ATL新能源](https://wecruit.hotjob.cn/SU5ff30f5b9b0d78e6f4283a0b/pb/account.html#/myDeliver)
+
+2023-04-04 15:13 [贝壳](https://ke.zhiye.com/Portal/Apply/Index)
+
+2023-04-04 21:56 [思谋科技](https://app.mokahr.com/campus-recruitment/smartmore/46221#/candidateHome/applications)
+
+2023-04-05 08:50 [虎牙直播](https://app.mokahr.com/campus_apply/huya/4112#/candidateHome/applications)
+
+2023-04-05 09:20 [知乎](https://app.mokahr.com/campus-recruitment/zhihu/68321#/candidateHome/applications)
+
+2023-04-09 12:31 [极智嘉](https://app.mokahr.com/campus_apply/geekplus/98039#/candidateHome/applications)
+
+2023-04-09 12:35 [第四范式](https://app.mokahr.com/campus-recruitment/4paradigm/58145?edit=1&hireMode=2#/candidateHome/applications)
+
+2023-04-09 12:47 [MiniMax](https://vrfi1sk8a0.jobs.feishu.cn/referral/position/application?token=MzsxNjc3MjMzNzU1MTA4OzcxNDI1ODYwNzk3MjY3OTY4Mjg7MA)
+
+2023-04-09 20:04 [Shopee虾皮](https://app.mokahr.com/campus-recruitment/shopee/100004?previewKey=49cb651dd22f4a61ac65cb1ed36a1d749764de49ce7845c3a9b81dd32cccd06b#/candidateHome/applications)
+
+2023-04-10 11:02 [58集团](https://campus.58.com/Portal/Apply/Index)
+
+2023-04-11 13:54 [锐捷网络](https://app.mokahr.com/campus_apply/ruijie/99942?code=051zPN100ieTtP1iE3200Ndw5Q2zPN1x&state=personalCenter#/candidateHome/applications)
+
+2023-04-11 13:43 [荣耀HONOR](https://career.hihonor.com/SU61b9b9992f9d24431f5050a5/pb/account.html#/myDeliver)
+
+2023-04-11 11:46 [Momenta](https://momenta.jobs.feishu.cn/intern/position/application)
+
+2023-04-13 14:06 [浪潮](https://inspur.hcmcloud.cn/recruit#/progress_detail?id=2585436)
+
+2023-04-14 15:33 [莉莉丝](https://lilithgames.jobs.feishu.cn/referral/campus/position/application?token=NTsxNjc4MzY5OTI2NzA1OzcwNTI5NjgxNjIzMjYyNDk0NzQ7NzIwODU0MjYxOTk0NTEwOTc3MQ)
+
+2023-04-16 09:43 [搜狐畅游](https://app.mokahr.com/campus-recruitment/cyou-inc/42233#/candidateHome/applications)
+
+2023-04-16 10:11 [虹科](https://app.mokahr.com/campus-recruitment/hkaco/68258#/candidateHome/applications)
+
+2023-04-17 09:32 [特斯拉](https://app.mokahr.com/campus_apply/tesla/41460?recommendCode=DSDWVfyf#/candidateHome/applications)
+
+2023-04-17 10:26 [亚马逊](https://account.amazon.jobs/zh-CN)
+
+2023-04-18 10:18 [用友(Java)](https://career.yonyou.com/SU61108d5b0dcad4106ff62e80/pb/account.html#/myDeliver)
+
+2023-04-19 11:36 [三一集团](http://sanycampus.zhiye.com/Portal/Apply/Index)
+
+2023-04-19 14:07 [三星](https://dearsamsung.zhiye.com/Portal/Apply/Index)
+
+2023-04-19 17:33 [星环科技](https://app.mokahr.com/campus-recruitment/transwarp/78066#/candidateHome/applications)
+
+2023-04-19 17:34 [金山云](https://app.mokahr.com/campus_apply/kingsoft/39364#/candidateHome/applications)
+
+2023-04-20 09:01 [良品铺子](https://lppz.zhiye.com/personal/deliveryRecord)
+
+2023-04-20 09:11 [海尔](http://maker.haier.net/client/practice/mydelivery.html)
+
+2023-04-20 13:50 [捷氢](https://shpt.zhiye.com/Portal/Apply/Index)
+
+2023-04-21 16:47 [文远知行WeRide](https://app.mokahr.com/campus_apply/jingchi/2137#/candidateHome/applications)
+
+2023-04-21 16:54 [新大陆](https://nlscan.zhiye.com/Portal/Apply/Index)
+
+2023-04-20 08:35 [NVIDIA](https://app.mokahr.com/campus_apply/nvidia/47111?sourceToken=5ff66e7f4a5d4fdb26884ea6e98b9402#/candidateHome/applications)
+
+2023-04-21 19:23 [西山居](https://app.mokahr.com/campus-recruitment/xishanju/37430#/candidateHome/applications)
+
+2023-04-21 19:24 [鹰角网络](https://jobs.hypergryph.com/campus_apply/hypergryph/26326#/candidateHome/applications)
+
+2023-04-21 19:29 [昆仑万维](https://app.mokahr.com/campus-recruitment/klww/67963#/candidateHome/applications)
+
+2023-04-22 10:34 [上汽通用五菱](https://wecruit.hotjob.cn/SU611bbe3c2f9d24229e014abb/pb/account.html#/myDeliver)
+
+2023-04-23 21:41 [中国信通院](https://www.hotjob.cn/wt/caict/web/index/applyPositionN310!listApplyPosition?brandCode=1&operational=f810d4998aa9f80bea8cf18c8f8f8373a1927a41e0d1fb342d71a80e3f846a26e1bf0a7fa3516a008064be324ad45029de99a62600cde3540a86fd0670e240263720d9fbe63ceb52f40c13542b797af6d469b592f9f50b1ca4903e3bb5a125e3)
+
+2023-04-24 09:23 [ECARX](https://campus.ecarxgroup.com/campus-recruitment/ecarx/43042/#/candidateHome/applications)
+
+2023-04-24 14:26 [H3C](https://career.h3c.com/h3c/user/delivery)
+
+2023-04-22 10:22 [数禾科技(Java)](https://shuhezhaopin.zhiye.com/Portal/Apply/Index)
+
+2023-04-24 11:01 [霍尼韦尔](https://app.mokahr.com/campus-recruitment/honeywellkerui/78102#/candidateHome/applications)
+
+2023-04-25 08:54 [杭州群核](https://app.mokahr.com/campus_apply/qunhemail/2832#/candidateHome/applications)
+
+2023-04-27 22:40 [理想汽车](https://li.jobs.feishu.cn/referral/campus/position/application?token=NTsxNjc3Njc1OTEwNDc0OzcxMTQ4MjU5NjM0NjQ5MTY5OTM7NzEyNzI3NTk3MDIzMTA2MDc0NA)
+
+2023-04-28 16:21 [Aibee](https://aibee.jobs.feishu.cn/834668/position/application?spread=G857BKS)
+
+2023-04-29 09:44 [零跑](https://leapmotor.zhiye.com/Portal/Apply/Index)
+
+2023-04-29 09:45 [奇安信](https://app.mokahr.com/campus_apply/qianxin/29182?recommendCode=DSjdXX1F#/candidateHome/applications)
+
+2023-04-29 09:59 [博世](https://app.mokahr.com/campus-recruitment/bosch/75909#/candidateHome/applications)
+
+2023-05-01 09:05 [浙江晶盛机电](https://app.mokahr.com/campus_apply/jsjd/24201?recommendCode=DSY63rJR#/candidateHome/applications)
+
+2023-05-01 15:13 [中冶赛迪](http://hr.cisdi.com.cn/user_joblist.php)
+
+2023-05-01 15:20 [韶音科技](https://app.mokahr.com/campus-recruitment/aftershokzhr/36940#/candidateHome/applications)
+
+2023-05-07 09:03 [绿盟科技](https://app.mokahr.com/campus_apply/nsfocus/29118#/candidateHome/applications)
+
+2023-05-07 09:11 [小天才](https://xiaozhao.eebbk.com/campus-recruitment/eebbk/37594/#/)
+
+2023-05-07 09:19 [三环集团](https://hr.cctc.cc/record)
+
+2023-05-07 10:23 [嘉楠科技](https://canaan-creative.zhiye.com/Portal/Apply/Index)
+
+2023-05-08 14:42 [建发股份](https://campus.chinacnd.com/chinacnd/personal.html?grzx=1)
+
+2023-05-08 21:52 [思为(Java)](https://ideamake.zhiye.com/Portal/Apply/Index)
+
+2023-05-08 22:05 [搜狐](https://app.mokahr.com/campus_apply/sohu/28313#/candidateHome/applications)
+
+2023-05-08 22:08 [沃尔沃](https://app.mokahr.com/campus-recruitment/volvocars/56034#/candidateHome/applications)
+
+2023-05-08 22:11 [华勤集团](https://app.mokahr.com/campus-recruitment/hq/45417#/candidateHome/applications)
+
+2023-05-09 08:40 [电魂网络](https://app.mokahr.com/campus-recruitment/dianhun/55953#/candidateHome/applications)
+
+2023-05-09 09:36 [一零跃动](https://app.mokahr.com/campus_apply/zhenrongbao/4074#/candidateHome/applications)
+
+2023-05-09 09:50 [航天一院](https://calt.m.zhiye.com/#/deliverstatus)
+
+2023-05-11 09:20 [Unity](https://wecruit.hotjob.cn/SU62e0b5332f9d24381010b077/pb/account.html#/myDeliver)
+
+2023-05-11 10:21 [上汽大通](https://smcv.m.zhiye.com/#/deliverstatus)
 
 
-### 工作優化
-| 名稱 | 說明 | 連結 | 費用 | Active | 語言 |
-| ---- | ----------------------------- | --- | --- | --- | --- |
-| Notion AI | 最完整的文字筆記 AI 工具 | [URL](https://affiliate.notion.so/pjib4ixelobm) | 免費/付費 | ✅ | 英文 |
-| 週報生成器 | 輸入完成的事項，自動產生週報 | [URL](https://weeklyreport.avemaria.fun/zh) | 免費 | ✅ | 中文 |
-| Fireflies | 可將會議紀錄的內容或是課堂上的內容，錄音、轉為文字檔，還有總結、記筆記等功能 | [URL](https://fireflies.ai/) | 免費/付費 | ✅ | 英文 |
-| mem | 自動化整合你所有的工具 | [URL](https://get.mem.ai/) | 免費/付費 | ✅ | 英文 |
-| Otter | 會議錄音、重點整理、自動生成逐字檔 | [URL](https://otter.ai/) | 免費/付費 | ✅ | 英文 |
-| genei | 是一提升生產力的工具，只需提出問題，Genei的AI 就能為用戶找到答案，還提供了 AI 強化的摘要和關鍵詞提取功能，幫助用戶更快地找到關鍵信息 | [URL](https://www.genei.io/) | 付費 | ✅ | 英文 |
-| Writely | 在 Browser 上取代 Notion.ai 的工具 | [URL](https://github.com/anc95/writely) | 免費 | ✅ | 英文 |
+
+#####  😅😅😅想躺平😅😅😅
+
+2023-05-08 14:44 [中国中化](https://sinochem.hotjob.cn/SU610b91ee0dcad4106ff11c21/pb/account.html#/)
+
+2023-04-04 09:00 [招联金融](https://wecruit.hotjob.cn/SU61027bb10dcad47a7e23e040/pb/account.html#/myDeliver)
+
+2023-04-04 14:39 [民生证券](https://mszq.hotjob.cn/wt/mszq/web/index?brandCode=1#~)
+
+2023-04-04 20:12 [微众银行](https://campus.webank.com/campus-recruitment/webankhr/18005/#/candidateHome/applications)
+
+2023-04-04 21:32 [招商银行](https://career.cmbchina.com/#applyHistorySchool)
+
+2023-04-04 21:47 [泰康集团](http://jobtaikang.zhiye.com/Portal/Account/Login?returnUrl=http%3a%2f%2fjobtaikang.zhiye.com%2fPortal%2fApply%2fIndex#~)
+
+2023-04-11 10:10 [平安银行](https://campus.pingan.com/personalcenter/center)
+
+2023-04-11 14:23 [广发证券](https://gf.hotjob.cn/SU625527c30dcad4021443cdda/pb/account.html#/myDeliver)
+
+2023-04-14 09:02 [工银瑞信](https://wecruit.hotjob.cn/SU60419b4dbef57c66a923b081/pb/account.html#/myDeliver)
+
+2023-04-11 14:48 [海通证券](https://htzghr.zhiye.com/personal/deliveryRecord)
+
+2023-04-17 13:47 [华泰证券](https://wecruit.hotjob.cn/SU6013d14e5d83dc11e4a8ae4d/pb/account.html#/myDeliver)
+
+2023-04-17 13:55 [卓识基金](https://app.mokahr.com/campus_apply/zsquant/36544#/candidateHome/applications)
+
+2023-04-17 14:12 [东方财富](https://zhaopin.eastmoney.com/campus-recruitment/eastmoney/57971#/candidateHome/applications)
+
+2023-04-17 14:22 [华安基金](http://huaan.zhiye.com/Portal/Apply/Index)
+
+2023-04-17 14:26 [嘉实基金](https://app.mokahr.com/campus-recruitment/jsfund/43906#/candidateHome/applications)
+
+2023-04-17 14:27 [华夏基金](http://chinaamc.zhiye.com/Portal/Apply/Index)
+
+2023-04-17 14:29 [广发证券](https://wecruit.hotjob.cn/SU632447282f9d243713200f65/pb/account.html#/myDeliver)
+
+2023-04-17 14:41 [天风证券](https://wecruit.hotjob.cn/SU6114cab40dcad4106ffc953b/pb/account.html#/myDeliver)
+
+2023-04-20 08:52 [南方基金](https://wecruit.hotjob.cn/SU6138665dbef57c3b63841399/pb/account.html#/myDeliver)
+
+2023-04-22 09:39 [中信证券](https://wecruit.hotjob.cn/SU60867bdc2f9d2403ab74fbf7/pb/account.html#/myDeliver)
+
+2023-04-22 09:51 [兴业银行](https://wecruit.hotjob.cn/SU611a47a02f9d24229eff074c/pb/account.html#/myDeliver)
+
+2023-04-22 10:08 [文华财经](http://hr.wenhua.com.cn/Job/Index)
+
+2023-04-22 10:20 [金证股份](https://szkingdom.zhiye.com/personal/deliveryRecord)
+
+2023-04-23 13:56 [鹏华基金](https://job.phfund.com.cn/#/selfpost)
+
+2023-04-26 09:02 [申万宏源证券](https://app.mokahr.com/campus-recruitment/swhysc-job/100159#/candidateHome/applications)
+
+2023-04-27 09:09 [德邦证券](https://app.mokahr.com/campus_apply/imtebon/47449#/candidateHome/applications)
+
+2023-04-27 09:22 [上海银行](https://bosc.zhiye.com/personal/deliveryRecord)
+
+2023-05-06 21:27 [中欧基金](http://zofund.zhiye.com/Portal/Apply/Index)
+
+2023-05-06 23:12 [长江证券](https://cjzq.zhiye.com/personal/deliveryRecord)
+
+2023-05-07 08:27 [东北证券](https://nesc.zhiye.com/personal/deliveryRecord)
+
+2023-05-05 21:51 [宁波银行](https://zhaopin.nbcb.com.cn/#/personal-center)
+
+2023-05-07 11:00 [对外经济贸易信托](https://wecruit.hotjob.cn/SU611a641a0dcad4106f04950e/mc/my/myDeliver?recruitType=12,1,13,2)
+
+2023-05-08 22:03 [泰隆银行](https://zjtlcb.zhiye.com/Portal/Apply/Index)
+
+2023-05-09 08:39 [光大证券](https://ebscn.zhiye.com/Portal/Apply/Index)
+
+2023-05-09 08:52 [江苏银行](https://hr.jsbchina.cn/spa/custom/static/index.html#/main/cs/app/415469a50449415a9b56642c69728966_personCenter)
+
+2023-05-09 09:21 [东方证券](https://app.mokahr.com/campus_apply/dfzq/4928#/candidateHome/applications)
+
+2023-05-09 09:35 [中信建投证券](https://job.csc.com.cn/scripts/mgrqispi.dll)
+
+2023-05-11 09:13 [永赢金租](https://maxwealthflhr.nbcb.com.cn/app/#/**)
+
+2023-05-11 09:38 [建发集团](http://chinacdc.zhiye.com/Portal/Apply/Index)
+
+2023-05-11 10:01 [光源资本](https://q77z9b9zvw.jobs.feishu.cn/426823/position/application)
 
 
-### Email 助手
-| 名稱 | 說明 | 連結 | 費用 | Active | 語言 |
-| ---- | ----------------------------- | --- | --- | --- | --- |
-| Warmest.ai | 當收到電子郵件時，Warmest 會收到通知並開始準備草稿，使用者只需審查並編輯後即可發送 | [URL](https://www.warmest.ai/) | 付費 | ✅ | 英文 |
-| Hoppy Copy | 透過 AI 快速生成 Email 內容，並且提供各類樣板，例如：行銷活動、電子報等 | [URL](https://www.hoppycopy.co/) | 付費 | ✅ | 英文 |
+
+#####  😭😭😭挂挂挂😭😭😭
+
+######  🥵🥵🥵最后垂死挣扎🥵🥵🥵
+
+2023-04-03 18:53 [(一面挂)云智](https://app-tc.mokahr.com/campus-recruitment/csig/20001#/candidateHome/applications)
+
+2023-04-21 17:28 [小鹏](https://campus.xiaopeng.com/campus_apply/xiaopeng/22/#/candidateHome/applications)
+
+2023-04-03 14:07 [(简历挂)哔哩哔哩](https://jobs.bilibili.com/campus/records)
+
+2023-04-19 11:50 [(一面挂)宁德时代](https://app.mokahr.com/campus-recruitment/catlhr/92133?previewKey=458840a74cf24a97abdc9b2a9bb694ae2ac4e233b95e4e389e7b85a41563a2de#/candidateHome/applications)
+
+2023-04-27 09:57 [超聚变](https://wecruit.hotjob.cn/SU613445ec2f9d245c993b8c1b/pb/account.html#/myDeliver)
+
+2023-04-23 14:31 [(人才库)海信Hisense](http://hisense.zhiye.com/Portal/Apply/Index)
+
+2023-04-04 08:38 [(简历挂)快手](https://zhaopin.kuaishou.cn/recruit/e/#/official/my-apply/)
+
+2023-04-24 11:14 [(简历挂)西门子](https://jobs.siemens.com.cn/siemens/user/delivery)
+
+2023-04-03 09:10 [(简历挂)群核](https://app.mokahr.com/campus_apply/qunhemail/2832#/candidateHome/applications)
+
+2023-04-03 09:32 [(简历挂)VIVO](https://hr.vivo.com/wt/vivo/web/index/vivoWebApplyRecord!listApplyPosition?needStatusFlows=true&operational=5c21845993754ba980e01eac4415e59af49f3b1d324aafa01c317e02051d44061189b660562f5c6ceb00459fe9481dcb4923ad32a773fd8cc725bd051fdaeb223bc8110cdf7009d7bd975f974b2ee3a52e1a9fd84b05b11ff892e8e8a88b5b848450d11e7fcdda2e)
+
+2023-04-04 18:04 [(简历挂)完美世界](https://app.mokahr.com/campus-recruitment/pwrd/45131#/candidateHome/applications)
+
+2023-04-03 13:35 [(无笔试)腾讯](https://join.qq.com/progress.html)
+
+2023-04-03 14:09 [(一面挂)阿里巴巴](https://talent.alibaba.com/personal/campus-application?lang=zh)
+
+2023-04-03 09:15 [(二面挂)美团](https://zhaopin.meituan.com/web/personalCenter/deliveryRecord)
+
+2023-04-03 14:04 [(简历挂)小米](https://xiaomi.jobs.f.mioffice.cn/internship/position/application?spread=6AA3R7B)
+
+2023-04-04 08:34 [(简历挂)地平线](https://wecruit.hotjob.cn/SU62d914f10dcad43c775ec125/pb/account.html#/myDeliver)
+
+2023-04-04 17:12 [(简历挂)字节跳动](https://jobs.bytedance.com/campus/position/application?referral_code=FYW8CGF)
+
+2023-04-03 16:30 [(简历挂)百度](https://talent.baidu.com/jobs/center)
+
+2023-04-04 09:10 [(简历挂)网易](https://hr.163.com/user.html/application)
+
+2023-04-04 10:43 [(简历挂)GEELY 吉利](https://campus.geely.com/hcm-web/#/ucenter/cmine)
+
+2023-04-05 09:23 [(简历挂)七牛云](https://app.mokahr.com/campus-recruitment/qiniuyun/73989#/candidateHome/applications)
+
+2023-04-03 16:36 [(简历挂)OPPO](https://careers.oppo.com/university/oppo/center/history)
+
+2023-04-19 17:29 [(简历挂)金山](https://join.wps.cn/campus-recruitment/wps/41436#/candidateHome/applications)
 
 
-### 求職面試
-| 名稱 | 說明 | 連結 | 費用 | Active | 語言 |
-| --- | --- | --- | --- | --- | --- |
-| ResumeAI | 輸入經歷 (不限中英文)，精修出英文版本| [URL](https://www.explainthis.io/zh-hant/tools/resume-ai) | 免費 | ✅ | 中文/英文
-| BioGenAI  | 只需輸入基本資訊 (中英文皆可以)，就自動產出一段吸引人的英文 LinkedIn 個人簡介 | [URL](https://www.explainthis.io/zh-hant/tools/biogen-ai) | 免費 | ✅ | 中文/英文
-| BehavAI | 與面試專家精煉過的語句，根據你的經驗產生面試回答 | [URL](https://www.explainthis.io/zh-hant/tools/behav-ai) | 免費 | ✅ | 中文/英文 |
-| IntroAI | AI 生成面試時的自我介紹 | [URL](https://www.explainthis.io/zh-hant/tools/intro-ai) | 免費 | ✅ | 中文/英文 |
-| RecommAI | 只需輸入推薦要點，由 AI 直接幫你完成推薦信 | [URL](https://www.explainthis.io/zh-hant/tools/recomm-ai) | 免費 | ✅ | 中文/英文 |
-| CovLetterAI | 協助你客製化不同公司的求職信 | [URL](https://www.explainthis.io/zh-hant/tools/covletter-ai) | 免費 | ✅ | 中文/英文 |
-| ResignAI | 幫你寫出一封體面且不失專業的離職信 | [URL](https://www.explainthis.io/zh-hant/tools/resign-ai) | 免費 | ✅ | 中文/英文 |
-| CoffeeChatAI | 在 LinkedIn 上約人喝咖啡請教職涯問題、建立人脈的邀請訊息生成 | [URL](https://www.explainthis.io/zh-hant/tools/coffeechat-ai) | 免費 | ✅ | 中文/英文 |
-| HireBrain | 提供 Resume 的 Review 和 Scoring 服務 | [URL](https://hirebrain.song.work/) | 免費 | ✅ | 英文 |
+
+######  😢😢😢51job&无查询😢😢😢
+
+2023-05-07 08:11 [博时基金](http://campus.51job.com/bosera2023/)
+
+2023-04-22 10:25 [花旗金融](https://xyz.51job.com/External/MyResume/ResumeEnd.aspx?ctmid=a6c7e322-5a68-4557-8ad2-f98b8b3b6bf2&css=%2f%2fimg03.51jobcdn.com%2fehireplus%2f2022%2fstyle%2fehireplus2009%2fcp%2finc%2f&CtmName=%e8%8a%b1%e6%97%97%e9%87%91%e8%9e%8d%e4%bf%a1%e6%81%af&resumeid=84719823-6672-43df-a40f-7b6f3d36981e&jobid=42ad2de0-f209-4759-98fd-4e527015f9a0,86fff173-27bc-451a-abd1-9898067dff93&accountid=225076237&ismap3=False&prd=xyz.51job.com&prp=&cd=xyz.51job.com&cp=&ruid=&backurl=&auid=&uuid=&partner=)
+
+2023-05-07 08:49 [德州仪器](https://www.moseeker.com/positions/index/cid/4195218?candidateSource=)
+
+2023-04-18 09:50 [思特奇](http://zhaopin.si-tech.com.cn/outside/index.jsp?=&it_id=384&jl=&raq=cGFnZS_mipXpgJLorrDlvZUv5oqV6YCS6K6w5b2V.raq&ctrl-opentype=self&raqName=page/%E6%8A%95%E9%80%92%E8%AE%B0%E5%BD%95/%E6%8A%95%E9%80%92%E8%AE%B0%E5%BD%95#cGFnZS_mipXpgJLorrDlvZUv5oqV6YCS6K6w5b2V)
+
+2023-05-06 23:15 [宁银理财](https://www.wjx.cn/vm/YOUGHil.aspx)
+
+2023-04-28 16:17 [宁波银行内推](https://www.wjx.cn/vm/wpPCvww.aspx#)
+
+2023-04-23 09:13 [(无查询)51WORLD](https://51world.zhiye.com/personal/deliveryRecord)
+
+2023-04-20 08:59 [东软(无查询)](https://neusoft-campus.zhiye.com/personal/deliveryRecord)
+
+2023-04-25 13:51 [(无查)智加科技](https://app.mokahr.com/social-recruitment/plus/73958#/job/1b970e19-bdef-4cc7-ad66-6439a63b2ba9/apply/thanks?jobId=1b970e19-bdef-4cc7-ad66-6439a63b2ba9&recommendCode=NTAU5Wm&codeType=1&isRecommendation=undefined&applyInfo%5BaimWorkCity%5D=%E8%8B%8F%E5%B7%9E%E5%B8%82&applyInfo%5BrecommendCode%5D=NTAU5Wm&candidateName=%E6%9D%A8%E9%94%B4&candidateId=428148106)
+
+2023-04-18 15:33 [经纬恒润(无查](https://wecruit.hotjob.cn/SU62a93e760dcad45229a827cc/pb/account.html#/myDeliver)
+
+2023-04-06 11:53 [(超时已挂)Wind万德](https://www.wind.com.cn/portal/zh/JoinUs/recruit.html?positionType=9002)
+
+2023-04-06 09:55 [(简历挂，已无)爱奇艺](https://careers.iqiyi.com/apply/iqiyi/39117#/)
+
+2023-04-26 09:10 [中国债券](https://www.chinabond.com.cn/)
+
+2023-04-16 10:03 [阅文集团](https://www.nowcoder.com/careers/yuewen/122324?source=6A501497AFCC95F3C724726A220BC3345D2B1AAD67C4DCC3)
+
+2023-04-16 09:01 [三一重能](https://www.wjx.top/wjx/join/completemobile2.aspx?activityid=rX91ErL&joinactivity=117419445221&sojumpindex=127&anst=BcE8H4ES14%2foIoRgNrZDMOJ4HPeFEI7N&comsign=B8E0EF8933B45545E642CB7E1FA243FC01255815&ge=1&educ=5)
+
+2023-04-04 10:24 [雅诗兰黛(无查询)](https://xyz.51job.com/External/MyResume/ResumeEnd.aspx?ctmid=e192c20e-c38d-4155-bf81-2ecf4b285380&css=%2f%2fimg03.51jobcdn.com%2fehireplus%2f2022%2fstyle%2fehireplus2009%2fcp%2finc%2f&CtmName=%e9%9b%85%e8%af%97%e5%85%b0%e9%bb%9b%e6%a0%a1%e5%9b%ad&resumeid=a0db3c6a-5220-40c6-8dfc-df15ea7a6557&jobid=5bc7dd78-d271-4162-848b-b662e525e79a,a89d8970-f7a1-4039-b82d-0757ccabd2f3&accountid=225076237&ismap3=False&prd=campus.51job.com&prp=&cd=xyz.51job.com&cp=&ruid=&backurl=&auid=&uuid=&partner=)
+
+2023-04-04 11:31 [比特大陆(无查询)](https://jobs.bitmain.com.cn/trainee)
+
+2023-04-04 14:37 [中国银行(无查询)](https://applyjob.chinahr.com/page/job/success?projectId=63f47e7255cbed088c78eed1)
+
+2023-04-05 09:09 [亚信科技(无查询)](https://xyz.51job.com/External/MyResume/ResumeEnd.aspx?ctmid=5cefea63-843f-4cb4-89de-f334f285a446&css=%2f%2fimg03.51jobcdn.com%2fehireplus%2f2022%2fstyle%2fehireplus2009%2fnewcp1_1%2finc%2f&CtmName=%e4%ba%9a%e4%bf%a1%e7%a7%91%e6%8a%802024&resumeid=cd679827-51e6-455c-b6cc-ca818cc5330d&jobid=a3660365-be7f-40f2-a2d6-6a3e14582cee&accountid=225076237&ismap3=False&prd=campus.51job.com&prp=&cd=xyz.51job.com&cp=&ruid=&backurl=&auid=&uuid=&partner=)
+
+2023-04-09 12:37 [中国移动研究院(无查询)](https://www.shixiseng.com/com/com_g19mw7vjyvjo)
+
+2023-04-05 09:26 [世纪前沿(无查询)](https://mp.weixin.qq.com/s/PD5RekGydkfnR3FDJ0w-4Q?time=1675865470243)
+
+2023-04-04 14:05 [野村信息技术(无查询)](https://mp.weixin.qq.com/s/PYZ4wu5_r2WkAfrkChP9CQ)
+
+2023-04-09 12:53 [Synopsys(无查询)](https://mp.weixin.qq.com/s/5lBdKmS2PDdw4CP9NCbd5g)
+
+2023-04-18 09:33 [中国电信](https://mp.weixin.qq.com/s/ScejLaxLdaPIIM3RYlDp8A)
+
+2023-04-20 08:55 [飞腾](https://www.wjx.top/wjx/join/completemobile2.aspx?activityid=OtY5kGP&joinactivity=117454870048&sojumpindex=690&anst=BcE8H4ES14%2fa7HOmhjj0VRZ8sJnL4Up6&comsign=7CE1B2132E7CCE3B5D090D650F71F58E6A059268&rfrr=1&nw=1&jpm=58)
+
+2023-04-21 15:52 [南瑞继保](https://www.nrec.com/cn/index.php/hr/zplc)
+
+2023-04-22 18:22 [GE医疗](https://xyz.51job.com/External/MyResume/ResumeEnd.aspx?ctmid=01a91ebc-9a5e-46e7-b371-fedc32adb24e&css=%2f%2fimg03.51jobcdn.com%2fehireplus%2f2022%2fstyle%2fehireplus2009%2fcp_4%2finc%2f&CtmName=GE%e5%8c%bb%e7%96%97&resumeid=3f1437e2-804d-4b16-982c-0f0f9aedc5cc&jobid=ab46b441-d140-4c64-97ad-78032e9312ae,5338e022-1c7d-402b-ac2d-5cd6a7b19759&accountid=225076237&ismap3=False&prd=xyznt&prp=&cd=&cp=&ruid=&backurl=&auid=&uuid=&partner=)
+
+2023-04-24 09:15 [长安福特](http://campus.51job.com/caf2023trainee/)
+
+2023-05-01 15:32 [星耀东方514所](https://mp.weixin.qq.com/s/OfwSY40zJlnVJ0D3ekut6g)
+
+2023-05-04 18:09 [威盛集团](https://www.wjx.top/vm/h8seRhp.aspx)
+
+2023-05-07 08:38 [小鹅通](https://www.xiaoe-tech.com/joinUs)
+
+2023-05-08 21:57 [施耐德电气](http://www.schneidercampus.com/?page=6)
+
+2023-05-08 22:23 [帆软](https://join.fanruan.com/trainee)
+
+2023-05-09 09:37 [鸣熙资本](https://www.mxzichan.com/job4.html)
+
+2023-05-09 10:01 [科大讯飞](https://mp.weixin.qq.com/s/Di-vZtHIPNnZ4JVfexvjHg)
+
+2023-05-11 09:41 [宝洁](https://mp.weixin.qq.com/s/UZoCJHfGQu7hNBcaa9b8KQ)
+
+2023-05-11 10:14 [沃尔沃](https://app.mokahr.com/social-recruitment/volvocars/67891#/jobs)
+
+2023-05-11 10:16 [北京移动](http://campus.51job.com/bjydyyjh2023/index1.html)
 
 
-### 寫作工具
-| 名稱 | 說明 | 連結 | 費用 | Active | 語言 |
-| ---- | ----------------------------- | --- | --- | --- | --- |
-| Jenni | AI 寫作輔助工具，擁有幫助完成段落、客製化語調、重新編寫等功能 | [URL](https://jenni.ai/) | 付費 | ✅ | 英文 |
-| Rytr | Rytr 是一個 AI 寫作助手，可以用於 Email、部落格、社群媒體文章等 | [URL](https://rytr.me/) | 免費/付費 | ✅ | 英文 |
-| Writesonic | 用於內容創作、包括寫文章、部落格的 AI 工具 | [URL](https://writesonic.com/) | 免費/付費 | ✅ | 英文 |
-| Deep L Write | 英文、德文寫作工具，可以及時修正寫作錯誤、改寫句子。 | [URL](https://www.deepl.com/write) |  免費/付費 | ✅ | 英文/中文 |
-| quillbot | 使用 QuillBot 改寫，有兩種免費模式和五種高級模式可供選擇，可以提高文章的流暢度、使用適當的詞彙、語氣和風格 | [URL](https://quillbot.com/) | 免費/付費 | ✅ | 英文 |
-| Wordtune | 可用於重新編寫、改述和改寫用戶的寫作，還可用於文章、學術論文、電子郵件和任何其他在線內容 | [URL](https://www.wordtune.com/) | 免費/付費 | ✅ | 英文 |
+
+######  💔💔💔已无半点机会💔💔💔
+
+2023-04-16 11:03 [(简历挂)微派](https://app.mokahr.com/campus_apply/wepie/7360#/candidateHome/applications)
+
+2023-05-08 22:15 [(简历筛)海天塑机](https://haitian.zhiye.com/personal/deliveryRecord)
+
+2023-04-28 11:51 [(简历挂)海康威视](https://campushr.hikvision.com/myDelivery)
+
+2023-04-04 10:48 [(笔试挂)SHEIN希音](https://app.mokahr.com/campus_apply/shein/2932#/candidateHome/applications)
+
+2023-04-04 20:47 [(停止招聘)联发科](https://mediatek.zhiye.com/personal/deliveryRecord)
+
+2023-04-19 17:22 [(简历挂，已无)SmartX](https://app.mokahr.com/campus_apply/smartx/4183#/job/bcff8aac-f946-4b2a-8523-db9a5df9fce8/campus_apply/thanks?jobId=bcff8aac-f946-4b2a-8523-db9a5df9fce8&isRecommendation=false&applyInfo%5BaimWorkCity%5D=%E5%8C%97%E4%BA%AC%E5%B8%82&candidateName=%E6%9D%A8%E9%94%B4&candidateId=425103274)
+
+2023-05-01 15:29 [(简历挂)徐工XCMG](https://wecruit.hotjob.cn/SU602dc6742f9d240e519f48d9/pb/account.html#/myDeliver)
+
+2023-04-14 08:47 [(简历筛)ZEKU](https://app.mokahr.com/campus-recruitment/zeku/102102?sourceToken=89adda2feeea0db67058bce162b881fa#/candidateHome/applications)
+
+2023-04-05 11:57 [(笔试挂，已无)美的](https://careers.midea.com/schoolOut/apply)
+
+2023-04-03 13:54 [(笔试挂，已无)拼多多](https://careers.pinduoduo.com/campus/personal-center)
+
+2023-04-05 09:30 [(岗位停止招聘)恒生](https://campus.hundsun.com/personal/deliveryRecord)
+
+2023-04-21 19:29 [(笔试挂)吉比特&amp;雷霆游戏](https://hr.g-bits.com/web/index.html#/center-web/recruit-query)
+
+2023-04-09 12:40 [(笔试挂，全挂)DolphinDB智臾](https://app.mokahr.com/campus-recruitment/dolphindb/101962#/candidateHome/applications)
+
+2023-04-04 09:29 [(简历挂，全挂)商汤](https://hr.sensetime.com/SU604c56f9bef57c3d1a752c60/pb/account.html#/myDeliver)
+
+2023-04-08 11:20 [(情景挂，已无)Beisen北森](https://beisen.zhiye.com/intern/jobs)
+
+2023-04-03 10:51 [(简历挂，已无)天王星量化](https://app.mokahr.com/m/candidate/applications/deliver-query/uranus-research)
+
+2023-04-04 22:10 [(简历挂，已无)合合信息](https://intsig.zhiye.com/personal/deliveryRecord)
+
+2023-04-03 14:08 [(简历挂，已无)猿辅导](https://hr.yuanfudao.com/campus-recruitment/fenbi/47742/#/candidateHome/applications)
+
+2023-04-04 17:23 [(简历挂，已无)DJI 大疆](https://we.dji.com/zh-CN/user)
+
+2023-04-04 09:17 [(简历挂，已无)滴滴](http://campus.didiglobal.com/campus_apply/didiglobal/6223#/candidateHome/applications)
+
+2023-04-04 15:08 [(简历挂，已无)深信服](https://app.mokahr.com/campus_apply/sangfor/6146#/job/4bd5d07e-e002-4532-8461-2f2edf412ce6/campus_apply/thanks?jobId=4bd5d07e-e002-4532-8461-2f2edf412ce6&applyInfo%5BcampusSiteId%5D=1002&applyInfo%5BaimWorkCity%5D=%E6%B7%B1%E5%9C%B3%E5%B8%82&candidateName=%E6%9D%A8%E9%94%B4&candidateId=421556015&pure=1)
+
+2023-04-03 17:06 [(简历挂，已无)Cider](https://ciderglobal.jobs.feishu.cn/504718/position/application?spread=QPXGEJS)
+
+2023-04-13 10:24 [(简历挂，已无)图森未来](https://app.mokahr.com/campus_apply/tusenweilai/72214#/candidateHome/applications)
+
+2023-04-04 21:07 [(简历挂，已无)蔚来校园](https://nio.jobs.feishu.cn/campus/position/application?spread=7Q6WWWR)
+
+2023-04-18 09:33 [(简历挂，已无)HelloTalk](https://hellotalk.jobs.feishu.cn/130439/position/application)
 
 
-### 文案生成
-| 名稱 | 說明 | 連結 | 費用 | Active | 語言 |
-| ---- | ----------------------------- | --- | --- | --- | --- |
-| piggy | 手機圖文自動生成器 | [URL](https://piggy.to/magic) | 免費 | ✅ | 中文/英文 |
-| ChatGPT eCommerce Prompts | 可以針對產品、節日、競品等生產行銷相關文案 | [URL](https://www.ecommerceprompts.com/) | 免費 | ✅ | 英文 |
-| Copy.ai | 透過 AI 技術，該工具能夠協助專業人士更快速地撰寫部落格文章、創造更有說服力的廣告文案，以及更吸引人的電子郵件。 | [URL](https://www.copy.ai/) | 免費/付費 | ✅ | 英文 |
-| Jasper | 文案生成：包含廣告、社群貼文、Email 等 | [URL](https://www.jasper.ai/) | 付費 | ✅ | 英文 |
-| anyword | 文案內容分析優化 | [URL](https://anyword.com/) | 付費 | ✅ | 英文 |
-| peppertype | 提供多種樣本，再結合 AI 技術，讓你可以快速地生成所需的內容 | [URL](https://www.peppertype.ai/) | 付費 | ✅ | 英文 |
-
-
-### PPT 生成
-| 名稱 | 說明 | 連結 | 費用 | Active | 語言 |
-| --- | --- | --- | --- | --- | --- |
-| Tome | 使用圖文生成出 PTT | [URL](https://beta.tome.app/) | 付費 | ✅ | 英文 |
-| Beautiful.ai | 簡單輸入指令，即可生成圖文並茂的 PPT | [URL](http://beautiful.ai/) | 付費 | ✅ | 英文 |
-| 智能 PPT | 線上利用 ChatGPT 完成簡報 | [URL](https://aippt.wps.cn/welcome) | 免費 | ⛔️ | 中文 |
-
-
-### 重點整理
-| 名稱 | 說明 | 連結 | 費用 | Active | 語言 |
-| ---- | ----------------------------- | --- | --- | --- | --- |
-| SUMMARI | 提供專門總結的 API 功能，讓開發者輕易串接在自己的產品上 | [URL](https://www.summari.com/) | 付費 | ✅ | 英文 |
-| TLDR This | 輸入網址或文字，即可得到文章內容總結 | [URL](https://tldrthis.com/) | 免費/付費 | ✅ | 英文 |
-| ChatGPT for YouTube | Chrome 插件快速取得 Youtube 影片內容 | [URL](https://chatgpt4youtube.com/?ref=producthunt) | 免費 | ✅ | 中文/英文 |
-| Chat Youtube | 傳 Youtube 連結給他，就能像他提問影片內容、總結等 | [URL](https://chatyoutube.com/) | 免費 | ✅ | 中文/英文 |
-
-
-### 圖像生成
-| 名稱 | 說明 | 連結 | 費用 | Active | 語言 |
-| ---- | ----------------------------- | --- | --- | --- | --- |
-| neural.love | 文字轉圖片工具，還提供影片和照片優化 | [URL](https://neural.love/) | 免費/付費 | ✅ | 英文 |
-| Midjourney | 輸入文字生成圖片 | [URL](https://www.midjourney.com/) | 免費/付費 | ✅ | 英文 |
-| AutoDraw | Autodraw 可以猜測使用者想要繪製的物體或形狀，從而讓使用者更快速地繪圖 | [URL](https://www.autodraw.com/) | 免費 | ✅ | 英文 |
-| Craiyon | 文字轉圖像工具 | [URL](https://www.craiyon.com/) | 免費/付費 | ✅ | 英文 |
-| Picso | 文字轉圖像工具，可以選擇繪畫風格 | [URL](https://picso.ai/) | 免費/付費 | ✅ | 英文 |
-| visual-chatgpt | 透過 ChatGPT 生成圖片 | [URL](https://github.com/microsoft/visual-chatgpt) | 免費 | ✅ | 英文 |
-| Microsoft Bing Image Creator | Image Creator 是一款能夠協助使用者運用 DALL-E 技術創造 AI 影像的產品。使用者只需輸入文字提示，AI 系統即可立即生成一組符合提示內容的影像 | [URL](https://www.bing.com/images/create) | 免費 | ✅ | 中文/英文 |
-
-### 影音生成
-| 名稱 | 說明 | 連結 | 費用 | Active | 語言 |
-| ---- | ----------------------------- | --- | --- | --- | --- |
-| Tavus | 根據你的臉與聲音，用 AI 幫你做客製化影片，省去做影片的時間 | [URL](https://www.tavus.io/) | 付費 | ✅ | 英文 |
-| Runway | AI 影片編輯、AI 文字生成圖片 | [URL](https://runwayml.com/) | 免費/付費 | ✅ | 英文 |
-| Murf | 在幾分鐘內製作出工作室品質的配音。使用逼真聲音為 Podcast、影片等製作配音 | [URL](https://murf.ai/) | 免費/付費 | ✅ | 英文 |
-| synthesia | 輸入文字稿，即可生成有真人主持人的影片 | [URL](https://www.synthesia.io/) | 付費 | ✅ | 英文 |
-| Fliki | 將文字轉為影音、並加上 AI 的音訊 | [URL](https://fliki.ai/) | 免費/付費 | ✅ | 英文 |
-| capsho | Capsho是專為專業播客製作的。指教練、顧問、服務提供商等，透過 AI 生成集數介紹、節目摘要、社媒標題，等內容 | [URL](https://www.capsho.com/) | 付費 | ✅ | 英文 |
-
-
-### 品牌生成
-| 名稱 | 說明 | 連結 | 費用 | Active | 語言 |
-| ---- | ----------------------------- | --- | --- | --- | --- |
-| namelix | 品牌名稱產生器 | [URL](https://namelix.com/) | 免費 | ✅ | 英文 |
-| Looka | Logo 製作工具 | [URL](https://looka.com/) | 免費/付費 | ✅ | 英文 |
-| Namecheap Logo Maker | 只要回答幾個簡單問題，即可設計、免費下載數百種商標設計 | [URL](https://www.namecheap.com/logo-maker/) | 免費 | ✅ | 英文 |
-
-
-### 動畫生成
-| 名稱 | 說明 | 連結 | 費用 | Active | 語言 |
-| ---- | ----------------------------- | --- | --- | --- | --- |
-| Jitter | 讓創作者和團隊輕鬆地設計出令人驚艷的動畫內容和介面。 | [URL](https://jitter.video/) | 免費/付費 | ✅ | 英文 |
-
-
-### 聊天機器人
-| 名稱 | 說明 | 連結 | 費用 | Active | 語言 |
-| --- | --- | --- | --- | --- | --- |
-| Andi | 準確、無廣告且注重隱私的人工智慧搜尋聊天機器人。Andi 不僅提供連結，還會直接回答的問題 | [URL](https://andisearch.com/) | 免費 | ✅ | 英文 |
-| Poe | Poe 讓您可以提問、獲得即時答案，並且與人工智慧進行來回對話 | [URL](https://poe.com/login) | 免費 | ✅ | 英文 |
-| character.ai | Character.ai是一個神經語言模型聊天機器人網絡應用程式，可以生成類似人類的文本回復，並結合上下文進行對話 | [URL](https://beta.character.ai/) | 免費 | ✅ | 英文 |
-| Typing Mind | 功能是基於 ChatGPT，但這個工具 UI 更加美觀易用 | [URL](https://www.typingmind.com/) | 免費/付費 | ✅ | 英文 |
-
-
-### 搜尋引擎
-| 名稱 | 說明 | 連結 | 費用 | Active | 語言 |
-| --- | --- | --- | --- | --- | --- |
-| Microsoft Bing | Bing 可以用於聊天回答問題，提供答案和靈感，草擬草稿協助寫作，適用於電子郵件、故事、飲食計劃等。 | [URL](https://www.bing.com/) | 免費 | ✅ | 英文 |
-| You.com | You.com 為搜尋引擎平台，可以總結用戶的搜尋內容，還提供了文字轉圖片等工具。 | [URL](https://you.com/) | 免費 | ✅ | 英文 |
-
-
-### 程式開發
-| 名稱 | 說明 | 連結 | 費用 | Active | 語言 |
-| ---- | ----------------------------- | --- | --- | --- | --- |
-| GitHub Copilot | GitHub 和 OpenAI 合作開發的一個 AI 工具，幫助工程師快速產生編寫程式碼 | [URL](https://github.com/features/copilot/) | 付費 | ✅ | 英文 |
-| AI Query | 輸入簡單的指令，即可透過此工具幫你生成 SQL 語法 | [URL](https://aiquery.co/) | 免費/付費 | ✅ | 英文 |
-| ChatGPT for VSCode | 透過結合 VS Code 和 ChatGPT 的方式，使用者可以得到 AI 提供的程式設計指引，包括程式碼解釋、偵錯等功能 | [URL](https://github.com/mpociot/chatgpt-vscode) | 免費 | ✅ | 英文 |
-| Codeium | Codeium 自動化生成程式碼。它支援超過 40 種語言，且仍在不斷擴充中。 | [URL](https://codeium.com/) | 免費/付費 | ✅ | 英文 |
-| SQL Translator | 將輸入文字轉換成 SQL 語法或從 SQL 轉換成描述文字 | [URL](https://www.sqltranslate.app/) | 免費 | ✅ | 英文 |
-| Cursor | 使用 GPT-4，在一種新型編輯器中撰寫、編輯的程式碼 | [URL](https://www.cursor.so/) | 免費 | ✅ | 英文 |
-
-### 翻譯工具
-| 名稱 | 說明 | 連結 | 費用 | Active | 語言 |
-| ---- | ----------------------------- | --- | --- | --- | --- |
-| Deep L | 準確即時的翻譯工具，目前支援 31 種語言 | [URL](https://www.deepl.com/translator) | 免費/付費 | ✅ | 中文/英文 |
-| openai-translator | 透過 OpenAI 的 GPT-3 模型，將輸入的文字翻譯成目標語言，支持 OCR 和跨平台（Mac、Windows、Linux、Chrome） | [URL](https://github.com/yetone/openai-translator) | 免費 | ✅ | 中文 |
-
-
-### 學術研究
-| 名稱 | 說明 | 連結 | 費用 | Active | 語言 |
-| ---- | ----------------------------- | --- | --- | --- | --- |
-| Elicit | Elicit 使用語言模型幫助您自動化研究工作流程，例如文獻回顧的部分。Elicit 可以在沒有完美關鍵詞匹配的情況下找到相關論文，總結與您問題相關的論文要點 | [URL](https://elicit.org/) | 免費 | ✅ | 英文 |
-| IRIS.ai | 用於處理用戶所有研究工作。智能搜索和多種智能篩選器、閱讀列表分析、自動生成摘要，以及自主提取和系統化數據。 | [URL](https://iris.ai/) | 付費 | ✅ | 英文 |
-| Perplexity.ai | Perplexity.ai 是一個基於 GPT-3 的 AI 工具，類似 New Bing 的搜尋引擎、會附上參考結果 | [URL](https://www.perplexity.ai/) | 免費 | ✅ | 英文 |
-
-
-### 有趣應用
-| 名稱 | 說明 | 連結 | 費用 | Active | 語言 |
-| ---- | ----------------------------- | --- | --- | --- | --- |
-| Joy Wedding Writer’s Block | 這個 AI 助手可以幫助你產出婚禮致詞、感謝信、拒絕信等。 | [URL](https://withjoy.com/writersblock/) | 免費 | ✅ | 英文 |
-| 限時塗鴉 | Quick, draw! 是 Google 推出的一個 AI 畫圖實驗。你會在 20 秒之內畫出指定的塗案，AI 會需要辨識出你在畫什麼 | [URL](https://quickdraw.withgoogle.com/) | 免費 | ✅ | 中文/英文 |
-| Dream Interpreter AI | 這個 AI 工具可以讓你輸入夢境，並幫助你解析夢境。 | [URL](https://dreaminterpreter.ai/) | 免費 | ✅ | 中文/英文 |
-|  HOTOKE AI | 這個線上工具，結合 AI 透過佛教等觀點為使用者解答疑惑 | [URL](https://hotoke.ai/) | 免費 | ✅ | 中文/英文 |
-
-
-### 學習成長
-| 名稱 | 說明 | 連結 | 費用 | Active | 語言 |
-| ---- | ----------------------------- | --- | --- | --- | --- |
-| JCAI | 利用AI當你的英文家教老師，能練習英文口說和聽力。在你對話的同時，文法魔法棒能讓你知道怎樣更好的表達，結束後也有該堂課聊過能背的片語。 | [URL](https://jcai.tw/) | 付費 | ✅ | 中文 |
-
-
-## 更新
-* 2023-03-22 更新 4 項服務
-* 2023-03-20 更新 9 項服務
-* 2023-03-19 更新 63 項服務
-* 2023-03-18 更新 8 項服務
-* 2023-03-17 更新 1 項服務
-* 2023-03-13 更新 11 項服務
-
-## 支持我們
-如果你喜歡這個專案，願意[支持我們](https://www.buymeacoffee.com/explainthis)，可以請我們喝一杯咖啡，這會成為我們繼續前進的動力！
-
-[<a href="https://www.buymeacoffee.com/explainthis" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="45px" width="162px" alt="Buy Me A Coffee"></a>](https://www.buymeacoffee.com/explainthis)
-
-## 貢獻
-如果你發現一些很酷的服務，歡迎一起貢獻於這份文件中，可以參考這份 [指南](CONTRIBUTING.md)
-
-## 授權
-[MIT](LICENSE)
 
